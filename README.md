@@ -1,22 +1,25 @@
-Track Your Health, One Meal at a Time
+Track Your Health, One Meal at a Time with NutriSync
+NutriSync is a full-stack web application designed to help users track their meals, monitor health-related symptoms, and analyze wellness trends. This project was inspired by the need to understand how diet impacts overall well-being.
 
-Belly is an innovative full-stack web application designed to help users track their meals, health-related symptoms, and health stats. This idea was born from my own journey navigating digestive health issues.
+By logging meals and health stats, NutriSync provides visual correlations between what you eat and how you feel. Whether you're managing digestive issues, general health concerns, or simply striving for a healthier lifestyle, NutriSync helps you take control of your wellness.
 
-By logging data about your diet and health, Belly helps visualize correlations between what you eat and how you feel. Whether you're dealing with digestive issues, other health concerns, or simply want to take charge of your wellness, Belly brings awareness to the foods we eat and their impact on our health.
+Features
+✅ Meal Logging – Log meals with detailed entries, including ingredients, food categories (e.g., gluten-free, dairy-free), and portion sizes.
+✅ Symptom Tracking – Track health symptoms and reactions after meals to help identify potential food triggers.
+✅ Health Stats – Record key wellness metrics like energy levels, sleep quality, weight, and mood.
+✅ Visual Correlations – Generate insightful graphs and reports to uncover trends between diet and health.
+✅ Personalized Insights – Use data-driven analysis to make informed dietary and wellness decisions.
 
-## Features
-- Meal Logging: Log meals with detailed entries, including food names, ingredients, and food categories (e.g., gluten-free, dairy-free).
-- Symptom Tracking: Track any health symptoms or reactions you experience after meals, helping you identify potential food triggers.
-- Health Stats: Record key health metrics like energy levels, weight, sleep quality, and more.
-- Visual Correlations: Generate insightful graphs and reports that show the relationship between your diet and health stats over time.
-- Personalized Insights: Use the data to gain insights into patterns, helping you make informed decisions about your diet and health.
-## Benefits
-- Ideal for digestive issues: If you're managing conditions like IBD, food intolerances, or other digestive issues, Belly helps you keep track of what works and what doesn’t.
-- Empower your health journey: Belly provides the tools to take charge of your health by making it easier to identify food-related patterns and correlations.
-- Wellness at your fingertips: With a clean and user-friendly interface, Belly makes it easy to log meals and track your health.
-## Technologies Used
-- Frontend: React
-- Backend: Node.js, Express
-- Database: SQL
-- Testing: Vitest, Jest
-- CI/CD: GitHub Actions, Husky
+Benefits
+✨ Ideal for digestive health – Helps users managing conditions like IBD, food intolerances, or gut-related issues track dietary impact.
+✨ Empower your health journey – Provides tools to identify food-related patterns and correlations for better decision-making.
+✨ User-friendly experience – Designed with a clean UI, making meal and health tracking effortless.
+
+Technologies Used
+🔹 Frontend – React
+🔹 Backend – Node.js, Express
+🔹 Database – PostgreSQL
+🔹 Testing – Vitest, Jest
+🔹 CI/CD – GitHub Actions, Husky
+
+NutriSync is more than just a tracker—it’s a data-driven health companion that helps you build awareness of how food influences your well-being. 
